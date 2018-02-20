@@ -79,6 +79,46 @@
 			<scope>test</scope>
 		</dependency>
 		
+		
+		<!-- All Dependency for Cucumber -->
+
+		<dependency>
+			<groupId>info.cukes</groupId>
+			<artifactId>cucumber-core</artifactId>
+			<version>1.2.4</version>
+		</dependency>
+		
+		<dependency>
+			<groupId>info.cukes</groupId>
+			<artifactId>cucumber-java</artifactId>
+			<version>1.2.4</version>
+		</dependency>
+
+		<dependency>
+			<groupId>info.cukes</groupId>
+			<artifactId>cucumber-junit</artifactId>
+			<version>1.2.0</version>
+		</dependency>
+
+		<dependency>
+			<groupId>info.cukes</groupId>
+			<artifactId>cucumber-testng</artifactId>
+			<version>1.2.4</version>
+		</dependency>
+
+		<dependency>
+			<groupId>info.cukes</groupId>
+			<artifactId>gherkin</artifactId>
+			<version>2.12.2</version>
+		</dependency>
+		
+		<!-- Extent Report -->
+		<dependency>
+    		<groupId>com.relevantcodes</groupId>
+   			<artifactId>extentreports</artifactId>
+    		<version>2.41.2</version>
+		</dependency>
+		
 
 	</dependencies>
 </project>
