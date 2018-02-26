@@ -5,3 +5,4 @@ RestAutomationPOC/target/
 *.classpath
 *.project
 *.settings
+.recommenders/
